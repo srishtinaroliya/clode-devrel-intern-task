@@ -3,6 +3,8 @@
 This repository contains my submission for the DevRel / Developer Advocate Intern task at Clode.
 
 The goal of this task is to analyze competitors in the cloud, DevOps, and platform engineering space, and translate those insights into DevRel-ready messaging for developers.
+This analysis reflects my understanding of the platform engineering and cloud automation space based on hands-on research and prior exposure to DevOps workflows.
+
 
 ---
 
